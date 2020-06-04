@@ -1,0 +1,145 @@
+/*!
+ * Start Bootstrap - Shop Item HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    padding-top: 20px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background-color: #f1f1f1;
+    margin-bottom: 200px;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 19px;
+    padding-top: 0px;
+    color: #333;
+}
+
+.well{
+    padding-top: 0px;
+    border-color: #ccc;
+    background-color: #fbfbfb;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+}
+
+p{
+	text-align: justify;
+    /*text-indent: 2em;*/
+}
+#logo{	
+	width: 450px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+h1{
+    vertical-align: center;
+}
+h2{
+	color: #337ab7;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+h4{
+    margin-top: 80px;
+    text-align: center;
+    color: #337ab7;
+    font-size: 25px;
+}
+h5{
+    margin-top: 0px;
+    color: #337ab7;
+    font-size: 25px;
+}
+h6{
+    text-align: center;
+    color: #1a1a1a;
+    /*color: #aaa;*/
+    font-size: 15px;
+    margin-bottom: 18px;
+}
+#inscs{
+    font-size: 20px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+fieldset{
+	margin-top: 22px;
+}
+
+.datas, #diaValor{
+    padding: 0px;
+}
+
+#esquerda{
+    padding-right: 10px;
+}
+
+#sucess{
+    font-weight: bold;
+}
+#addDatas{
+    background-color: #F5F5F5;
+    padding: 0px;
+    padding-top: 8px;
+
+}
+#buscar{
+    margin-bottom: 30px;
+}
+#menu{
+    margin-bottom: 8px;
+}
+.list-group-item{
+    -webkit-transition: background-color 0.3s, color 0.3s;
+    transition: background-color 0.3s, color 0.3s;
+}
+a.list-group-item:hover {
+    color: #337ab7;
+}
+.blue{
+    margin-top: 15px;
+    border-color: #ddd;
+}
+.black{
+    border-color: #616161;
+    margin-top: 100px;
+}
+.descricao{
+    margin-bottom: 5px;
+    /*text-indent: 5em;*/
+}
+#admBotoes{
+    margin-bottom: 30px;
+}
+.reparacao{
+    padding: 0;
+    margin-bottom: 30px;
+    margin-top: -10px;
+}
+#inscdia{
+    padding-right: 10px;
+}
+#inscvalor{
+    padding-left: 0px;
+}
+#insc{
+    padding-left: 10px;
+    padding-right: 10px;
+}
