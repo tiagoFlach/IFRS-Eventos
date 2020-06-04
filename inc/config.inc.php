@@ -2,8 +2,8 @@
 
 define('HOST', 'localhost');
 define('BANCO', 'eventos');
-define('USUARIO_BANCO', 'root');
-define('SENHA_BANCO', 'senha123');
+define('USUARIO_BANCO', 'admin');
+define('SENHA_BANCO', 'senha123*A');
 
 
 /*define('HOST', 'mysql.hostinger.com.br');
